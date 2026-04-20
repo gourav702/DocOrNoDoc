@@ -1,0 +1,13 @@
+# Ignore datasets and processed data
+Dataset/
+master_dataset.json
+processed_dataset/
+
+# Ignore model checkpoints
+document_classifier_model/
+
+# Python cache and IDE files
+__pycache__/
+.idea/
+*.pyc
+*.png
