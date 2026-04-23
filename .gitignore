@@ -5,6 +5,7 @@ processed_dataset/
 
 # Ignore model checkpoints
 document_classifier_model/
+document_classifier_model_fp16/
 
 # Python cache and IDE files
 __pycache__/
